@@ -1,0 +1,8 @@
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/bin/Debug/netcoreapp1.1/C#Projects.deps.json
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/bin/Debug/netcoreapp1.1/C#Projects.runtimeconfig.json
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/bin/Debug/netcoreapp1.1/C#Projects.runtimeconfig.dev.json
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/bin/Debug/netcoreapp1.1/C#Projects.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/bin/Debug/netcoreapp1.1/C#Projects.pdb
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/obj/Debug/netcoreapp1.1/C#Projects.AssemblyInfo.cs
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/obj/Debug/netcoreapp1.1/C#Projects.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/helloWorld/obj/Debug/netcoreapp1.1/C#Projects.pdb
